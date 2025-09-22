@@ -37,14 +37,16 @@ def encrypt(text,s):
 	return result
 
 #check the above function
-text = "HUNGRYPOINT"
+text = "K Charan Teja"
 s = 4
 print ("Text : " + text)
 print ("Shift : " + str(s))
 print ("Cipher: " + encrypt(text,s))
 ```
 ## OUTPUT:
-<img width="475" height="191" alt="Screenshot 2025-09-08 210458" src="https://github.com/user-attachments/assets/eaa444e6-4bdf-43f3-86e1-d3d8a4177888" />
+<img width="453" height="258" alt="Screenshot 2025-09-22 135728" src="https://github.com/user-attachments/assets/1cc40d92-367f-4b63-bc3f-b64541cc804d" />
+
+<img width="409" height="262" alt="Screenshot 2025-09-22 135742" src="https://github.com/user-attachments/assets/54b74156-950f-4b0e-ae15-ceb0bf7b7934" />
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
